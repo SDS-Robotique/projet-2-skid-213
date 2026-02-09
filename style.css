@@ -1,0 +1,29 @@
+body  {
+    background-color: rgba(230, 44, 24, 0.874);
+}
+body{
+    color:rgb(21, 2, 2);
+    text-align: center;
+    text-shadow: #ffffff 2px 2px 4px;
+}
+header{
+    background-image: url("https://i.imgur.com/l1xx2Cf.jpeg");
+    min-height:60vh;
+    width: 100%;
+    background-size: cover ;
+    background-repeat:no-repeat;
+    background-position: center;
+    color: white;
+    padding:20px;
+}
+
+body{
+    display:grid;
+    place-items: center;
+    height:100%;
+
+
+
+
+
+    
